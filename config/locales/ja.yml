@@ -59,7 +59,7 @@ ja:
   title_new_category: 新規カテゴリ
   title_newest_articles: 最新の記事
   title_recently_updated_articles: 最近更新された記事
-  title_tagged_articles: "Articles tagged with %{tag}"
+  title_tagged_articles: "%{tag}のタグ付けされた記事"
   title_tags: タグ
   title_top_rated_articles: 評価の高い記事
   title_votes: 投票数
